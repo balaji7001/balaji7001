@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm an Artificial Intelligence and Data Science Student 🤖<br>I'm a Data Analyst 📊💹 <br>Cyber Security Tester 🧑🏻‍💻<br>Canva Editor ©️
+### I'm an Artificial Intelligence and Data Science Student 🤖<br>I'm a Data Analyst 📊💹 <br>Cyber Security Tester 🧑🏻‍💻<br>Canva Editor ©️ <br> Front-End Designer
 
 
 # 💻 Tech Stack:
