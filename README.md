@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 - 🔭 Working on **AI + Web Projects**
-- 🌱 Learning **Machine Learning, Cyber Security**
+- 🌱 Learning ** Data Analyst , Canva Designer, Cyber Security**
 - 💡 Building **Real-world scalable apps**
 - ⚡ Goal: Become **Top AI Engineer + Security Analyst**
 
