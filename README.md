@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
-<h3 align="center">🚀 AI Developer | Cyber Security Enthusiast | Full Stack Builder</h3>
+<h3 align="center">🚀 AI Developer | Cyber Security Enthusiast | Full Stack Builder | Data Analyst | Editor </h3>
 
 <p align="center">
   <a href="https://github.com/balaji7001">
@@ -81,8 +81,7 @@
 
 <p align="center">
 <a href="https://github.com/balaji7001"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://www.linkedin.com/in/balasa-balaji/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
