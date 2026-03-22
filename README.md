@@ -64,9 +64,9 @@
 - AI-based brain/emotion analysis system  
 - Frontend + Backend + ML Model integration  
 
-### ⚡ Code Complexity Analyzer
-- Multi-language analyzer like Lizard  
-- CLI + Future Web UI  
+### ⚡ Advanced Password Cracker
+- Capture the Wi-Fi around and try to crack the passwords 
+- Using tools like Linux , burpsuite  , Md5 Hashing techniques
 
 ---
 
