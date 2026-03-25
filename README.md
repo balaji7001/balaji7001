@@ -62,8 +62,12 @@
 
 ### 🧠 Neuro Tester (AI Project)
 - AI-based brain/emotion analysis system  
-- Frontend + Backend + ML Model integration  
-
+- Frontend + Backend + ML Model integration
+  
+### 🫱🏻‍🫲🏼 Civic Connect
+- To build an app that makes where the people can share their issues directly with the Govt Authorities
+- Using tools like Frontend + Backend + Algorithms like ( Decision making , k means clustering )
+  
 ### ⚡ Advanced Password Cracker
 - Capture the Wi-Fi around and try to crack the passwords 
 - Using tools like Linux , burpsuite  , Md5 Hashing techniques
