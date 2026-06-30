@@ -42,19 +42,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balaji7001&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji7001&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
