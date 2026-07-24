@@ -23,21 +23,18 @@
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,tailwind,git,github,html,css,discord,netlify,vercel,nextjs,vite,linux" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balaji7001&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balaji7001&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balaji7001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=1800" />
 </p>
 
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji7001&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji7001&theme=tokyo-night&area=true&hide_border=true&radius=12" />
 </p>
 
 ---
