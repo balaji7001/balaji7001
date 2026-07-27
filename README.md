@@ -30,8 +30,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=balaji7001&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
+
 ---
-## 📈 Contribution Graph
+
+##📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji7001&theme=tokyo-night&hide_border=true" />
