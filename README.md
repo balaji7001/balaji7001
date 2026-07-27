@@ -25,18 +25,29 @@
 
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balaji7001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <a href="https://github.com/balaji7001">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=balaji7001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
+      alt="GitHub Stats"
+      height="180"
+    />
+  </a>
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=balaji7001&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/balaji7001">
+    <img
+      src="https://streak-stats.demolab.com?user=balaji7001&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      height="180"
+    />
+  </a>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
