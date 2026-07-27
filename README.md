@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balaji7001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balaji7001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ## 🔥 GitHub Streak
