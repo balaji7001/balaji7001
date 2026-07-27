@@ -25,28 +25,16 @@
 
 
 ---
-## 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/balaji7001">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=balaji7001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
-      alt="GitHub Stats"
-      height="180"
-    />
-  </a>
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://github.com/balaji7001">
-    <img
-      src="https://streak-stats.demolab.com?user=balaji7001&theme=tokyonight&hide_border=true"
-      alt="GitHub Streak"
-      height="180"
-    />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=balaji7001&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji7001&theme=tokyo-night&hide_border=true" />
 </p>
 ---
 
