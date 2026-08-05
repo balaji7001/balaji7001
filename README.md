@@ -22,23 +22,20 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,tailwind,git,github,html,css,discord,netlify,vercel,nextjs,vite,linux" />
 </p>
-
-
 ---
-## 🔥 GitHub Streak
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=balaji7001&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balaji7001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji7001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
-
-## 📈 Contribution Graph
+## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji7001&theme=tokyo-night&hide_border=true" />
+  <img src="https://ghchart.rshah.org/409ba5/balaji7001" />
 </p>
----
 
 ## 🚀 Featured Projects
 
