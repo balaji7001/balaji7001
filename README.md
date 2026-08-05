@@ -31,11 +31,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji7001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/balaji7001" />
-</p>
 
 ## 🚀 Featured Projects
 
