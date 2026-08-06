@@ -22,6 +22,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,tailwind,git,github,html,css,discord,netlify,vercel,nextjs,vite,linux" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
