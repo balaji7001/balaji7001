@@ -16,9 +16,6 @@
 - ⚡ Goal: Become **Top AI Engineer + Security Analyst**
 
 ---
-jhtd 
-j yr
-
 
 ## 🛠️ Tech Stack
 
