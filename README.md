@@ -18,7 +18,6 @@
 ---
 jhtd 
 j yr
-, jyf
 
 
 ## 🛠️ Tech Stack
