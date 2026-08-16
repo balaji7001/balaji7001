@@ -24,6 +24,16 @@
 </p>
 
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=balaji7001&theme=dark&hide_border=true"
+    alt="Balaji's GitHub Streak"
+    width="850"
+  />
+</p>
+---
 
 ## 🚀 Featured Projects
 
