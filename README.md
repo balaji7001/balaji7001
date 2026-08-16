@@ -30,7 +30,7 @@
   <img
     src="https://streak-stats.demolab.com?user=balaji7001&theme=dark&hide_border=true"
     alt="Balaji's GitHub Streak"
-    width="850"
+    width="650"
   />
 </p>
 ---
