@@ -24,6 +24,7 @@
 </p>
 
 ---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -33,6 +34,7 @@
     width="650"
   />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
