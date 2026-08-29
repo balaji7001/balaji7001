@@ -27,13 +27,69 @@
 
 ## 🔥 GitHub Streak
 
+<!-- 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐂𝐒  -->
+<h2 align="center"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐈𝐒𝐓𝐈𝐂𝐒 </h2>
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<img
+  src="https://github-readme-streak-stats-trinibs-projects.vercel.app?user=SyedShahulAhmed&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  width="100%"
+/>
+</td>
+<td width="50%" align="center" valign="top">
+<img
+  src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=SyedShahulAhmed&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000&hide_border=true"
+  width="100%"
+/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<br>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedShahulAhmed&theme=github_dark&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=000000&icon_color=FFFFFF&chart_color=FFFFFF"
+  width="100%"
+/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<br>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SyedShahulAhmed&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"
+  width="100%"
+/>
+</td>
+</tr>
+
+</table>
+
+<!-- ROW 3 -->
+<!-- <p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedShahulAhmed&theme=github_dark"
+  />
+</p> -->
+<!-- ROW 2 -->
+
+
+<!-- GITHUB METRICS -->
+<!-- <details align="center">
+<summary align="center"><b> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐌𝐄𝐓𝐑𝐈𝐂𝐒 </b>
+<br>
+<sub>📊 Click to expand and view detailed GitHub analytics</sub>
+</summary>
+<br>
 <p align="center">
   <img
-  src="https://streak-stats.demolab.com?user=balaji7001&theme=dark&hide_border=true"
-  alt="Balaji's GitHub Streak"
-  width="650"
-/>
+    src="https://raw.githubusercontent.com/SyedShahulAhmed/SyedShahulAhmed/main/github-metrics.svg"
+    width="100%"
+    alt="GitHub Metrics"
+  />
 </p>
+</details> -->
 
 ---
 
