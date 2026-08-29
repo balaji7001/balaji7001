@@ -56,10 +56,6 @@
 <tr>
 <td colspan="2" align="center">
 <br>
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=balaji70001&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"
-  width="100%"
-/>
 </td>
 </tr>
 
