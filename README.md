@@ -57,39 +57,13 @@
 <td colspan="2" align="center">
 <br>
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SyedShahulAhmed&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=balaji70001&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"
   width="100%"
 />
 </td>
 </tr>
 
 </table>
-
-<!-- ROW 3 -->
-<!-- <p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedShahulAhmed&theme=github_dark"
-  />
-</p> -->
-<!-- ROW 2 -->
-
-
-<!-- GITHUB METRICS -->
-<!-- <details align="center">
-<summary align="center"><b> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐌𝐄𝐓𝐑𝐈𝐂𝐒 </b>
-<br>
-<sub>📊 Click to expand and view detailed GitHub analytics</sub>
-</summary>
-<br>
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SyedShahulAhmed/SyedShahulAhmed/main/github-metrics.svg"
-    width="100%"
-    alt="GitHub Metrics"
-  />
-</p>
-</details> -->
 
 ---
 
