@@ -39,7 +39,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 <img
-  src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=SyedShahulAhmed&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000&hide_border=true"
+  src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=balaji7001&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000&hide_border=true"
   width="100%"
 />
 </td>
@@ -48,7 +48,7 @@
 <td colspan="2" align="center">
 <br>
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedShahulAhmed&theme=github_dark&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=000000&icon_color=FFFFFF&chart_color=FFFFFF"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaji7001&theme=github_dark&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=000000&icon_color=FFFFFF&chart_color=FFFFFF"
   width="100%"
 />
 </td>
