@@ -33,7 +33,7 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <img
-  src="https://github-readme-streak-stats-trinibs-projects.vercel.app?user=SyedShahulAhmed&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  src="https://github-readme-streak-stats-trinibs-projects.vercel.app?user=balaji7001&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
   width="100%"
 />
 </td>
